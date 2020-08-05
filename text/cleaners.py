@@ -62,7 +62,7 @@ def collapse_whitespace(text):
 
 
 def convert_to_ascii(text):
-  return text
+  return (text)
 
 
 def basic_cleaners(text):
